@@ -29,16 +29,9 @@ The primary objectives of this project are:
 ## 3. Project Structure
 
 ```
-├── data/
-│   └── synthetic_energy_data.csv
 ├── notebooks/
 │   └── LSTM_Attention_Tutorial_PyTorch.ipynb
-├── models/
-│   ├── lstm_model.py
-│   └── attention_model.py
-├── results/
-│   ├── plots/
-│   └── metrics/
+├── images/
 ├── report/
 │   └── report.pdf
 └── README.md
